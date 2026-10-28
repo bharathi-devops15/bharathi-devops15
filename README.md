@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there! I'm Bharathi
+Aspiring DevOps Engineer|DevOps Trainee
+I'm currently learning DevOps fundamentals
+and building my technical skills through hands-on practice.
 
-<!--
-**bharathi-devops15/bharathi-devops15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical skills
+  - Linux
+  - git & gitHub
+  - Python
+  - SQL
+ 
+Currently Learning  
+  - Linux commands and shell scripting
+  - Git and GitHub version control
+  - DevOps fundamentals
+  - Automation basics
 
-Here are some ideas to get you started:
+Projects & Practice 
+  - Git Day 1 practice
+  - Python and MySQL Notes saver project
+ 
+My Goal
+  To become a skilled DevOps Engineer by continuously learning and practising real-world tools and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with Me
+  -GitHub: My GitHub Profile
